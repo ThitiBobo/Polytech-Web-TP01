@@ -1,0 +1,31 @@
+
+
+body{
+  background-color: #bbbbbb;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.image{
+  background-size: cover;
+  width: 600px;
+  height: 400px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+
+}
+
+div.polaroid {
+
+  margin: 20px;
+  width: 600px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.container {
+    text-align: center;
+    font-style: italic;
+    padding: 10px 20px;
+}
